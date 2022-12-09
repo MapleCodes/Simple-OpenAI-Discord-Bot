@@ -26,3 +26,7 @@ The response will be generated using OpenAI API based on the message recieved.
 
 ### License
 This project is licensed under the MIT License.
+
+### Have trouble trying to set it up?
+
+Contact me on my Discord @ `Maple#3668`
